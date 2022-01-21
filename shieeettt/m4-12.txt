@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Macro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>M4-12</Name>
+  <Guid>90b869c3-c9ea-438d-b055-2ba311899260</Guid>
+  <MacroEvents>
+    <MacroEvent>
+      <Type>2</Type>
+      <MouseEvent>
+        <MouseButton>1</MouseButton>
+        <State>0</State>
+      </MouseEvent>
+    </MacroEvent>
+    <MacroEvent>
+      <Type>3</Type>
+      <Delay>0</Delay>
+      <MouseMovement>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>976</X>
+          <Y>717</Y>
+          <Delay>0</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>975</X>
+          <Y>723</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>974</X>
+          <Y>729</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>973</X>
+          <Y>735</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>972</X>
+          <Y>741</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>972</X>
+          <Y>748</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>971</X>
+          <Y>754</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>970</X>
+          <Y>760</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>969</X>
+          <Y>766</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>968</X>
+          <Y>772</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>965</X>
+          <Y>780</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>963</X>
+          <Y>787</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>961</X>
+          <Y>794</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>959</X>
+          <Y>801</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>957</X>
+          <Y>808</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>953</X>
+          <Y>817</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>950</X>
+          <Y>824</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>947</X>
+          <Y>831</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>944</X>
+          <Y>838</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>941</X>
+          <Y>845</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>938</X>
+          <Y>853</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>934</X>
+          <Y>858</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>930</X>
+          <Y>863</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>926</X>
+          <Y>868</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>922</X>
+          <Y>873</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>920</X>
+          <Y>880</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>916</X>
+          <Y>884</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>912</X>
+          <Y>888</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>908</X>
+          <Y>892</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>904</X>
+          <Y>896</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>900</X>
+          <Y>901</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>897</X>
+          <Y>904</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>894</X>
+          <Y>907</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>891</X>
+          <Y>910</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>888</X>
+          <Y>913</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>885</X>
+          <Y>914</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>884</X>
+          <Y>917</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>883</X>
+          <Y>920</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>882</X>
+          <Y>923</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>881</X>
+          <Y>926</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>878</X>
+          <Y>931</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>882</X>
+          <Y>934</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>886</X>
+          <Y>937</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>890</X>
+          <Y>940</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>894</X>
+          <Y>943</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>897</X>
+          <Y>944</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>902</X>
+          <Y>946</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>907</X>
+          <Y>948</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>912</X>
+          <Y>950</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>917</X>
+          <Y>952</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>921</X>
+          <Y>953</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>926</X>
+          <Y>955</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>931</X>
+          <Y>957</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>936</X>
+          <Y>959</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>941</X>
+          <Y>961</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>944</X>
+          <Y>963</Y>
+          <Delay>24</Delay>
+</MouseMovementEvent>
+</MouseMovement>
+    </MacroEvent>
+    <MacroEvent>
+      <Type>2</Type>
+      <Delay>2</Delay>
+      <MouseEvent>
+        <MouseButton>1</MouseButton>
+        <State>1</State>
+      </MouseEvent>
+    </MacroEvent>
+  </MacroEvents>
+</Macro>
